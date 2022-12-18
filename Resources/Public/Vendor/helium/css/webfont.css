@@ -10,10 +10,10 @@
 }
 
 .helium {
-  font-family: 'helium';
+  font-family: 'helium' !important;
   speak: none;
   font-style: normal;
-  font-weight: normal;
+  font-weight: normal !important;
   font-variant: normal;
   text-transform: none;
   line-height: 1;
