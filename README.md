@@ -22,12 +22,12 @@ This Extension registers an Iconpack-Provider for `EXT:iconpack` which allows yo
 
 This extension contains an icon set of another author. Please note the license terms and conditions for the use of the icon set.
 
-| Name | *Helium Icons* |
-|:--|:--|
-| Type | SVG, Webfont |
-| Version | *UNKNOWN* |
-| Source | https://tympanus.net/codrops/2014/10/10/freebie-helium-icon-set/ |
-| License | *UNKNOWN* |
+| Name    | *Helium Icons*                                                                                  |
+| :------ | :---------------------------------------------------------------------------------------------- |
+| Type    | SVG, Webfont                                                                                    |
+| Version | *UNKNOWN*                                                                                       |
+| Source  | https://tympanus.net/codrops/2014/10/10/freebie-helium-icon-set/                                |
+| License | *UNKNOWN*                                                                                       |
 | Creator | [Taras Shypka](https://dribbble.com/bugsster) exclusively for [Codrops](http://www.codrops.com) |
 
 *All brand icons are copyright/trademarks of their respective owners.*
