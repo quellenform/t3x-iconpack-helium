@@ -13,7 +13,6 @@ iconpack:
       css: "EXT:iconpack_helium/Resources/Public/Vendor/helium/css/webfont.css"
       attributes:
         class: "helium"
-        aria-hidden: "true"
 
     svg:
       source: "EXT:iconpack_helium/Resources/Public/Vendor/helium/svgs/"
@@ -22,6 +21,5 @@ iconpack:
       source: "EXT:iconpack_helium/Resources/Public/Vendor/helium/svgs/"
       attributes:
         fill: "currentColor"
-        role: "img"
 
   icons: "EXT:iconpack_helium/Resources/Public/Vendor/helium/metadata/icons.yml"
